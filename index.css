@@ -88,3 +88,7 @@ button[data-value="="]{
     font-weight: 600;
     background-color: red;
 }
+
+@media screen and (max-width: 430px){
+    button[data-value="RESET"]{
+        grid-column: span 3;}
