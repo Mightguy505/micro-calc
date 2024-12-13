@@ -89,6 +89,4 @@ button[data-value="="]{
     background-color: red;
 }
 
-@media screen and (max-width: 431px){
-    button[data-value="RESET"]{
-        grid-column: span 8;}
+
